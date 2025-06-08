@@ -22,10 +22,5 @@ This is a **full-stack expense tracker** built with the **MERN stack** (MongoDB,
 4. **Responsive UI**  
    - Works on desktop and mobile  
 
-## 📌 Stretch Goals
-- Export data (CSV/PDF)  
-- Recurring expenses reminder  
-- Dark mode  
-
----
+ 
 *Built with MongoDB, Express, React, Node.js, and ❤️*  
